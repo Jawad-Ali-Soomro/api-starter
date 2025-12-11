@@ -1,10 +1,10 @@
 {
-  "name": "api-starter",
-  "version": "1.0.0",
+  "name": "express-file-based-routing",
+  "version": "1.0.1",
   "description": "A file-based API starter template for Express.js with automatic route handling",
   "main": "index.js",
   "bin": {
-    "api-starter": "./bin/api-starter.js"
+    "express-file-based-routing": "./bin/api-starter.js"
   },
   "scripts": {
     "start": "node index.js",

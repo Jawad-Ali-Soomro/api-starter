@@ -1,16 +1,11 @@
-# API Starter
+# Express File-Based Routing
 
 A file-based API starter template for Express.js with automatic route handling.
 
 ## Installation
 
 ```bash
-npx @jawad-dakhan/api-starter@latest init
-```
-
-Or if you prefer the shorter command, you can also use:
-```bash
-npx api-starter@latest init
+npx express-file-based-routing@latest init
 ```
 
 This will create a new API project in the current directory.

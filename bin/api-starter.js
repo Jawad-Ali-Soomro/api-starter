@@ -8,13 +8,13 @@ if (command === 'init') {
     init();
 } else if (!command) {
     console.log(`
-Usage: npx api-starter@latest <command>
+Usage: npx express-file-based-routing@latest init
 
 Commands:
   init    Initialize a new API starter project
     `);
 } else {
     console.log(`Unknown command: ${command}`);
-    console.log('Run "npx api-starter@latest" to see available commands.');
+    console.log('Run "npx express-file-based-routing@latest" to see available commands.');
     process.exit(1);
 }
