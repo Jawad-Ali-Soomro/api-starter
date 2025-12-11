@@ -1,7 +1,7 @@
 {
   "name": "express-file-based-routing",
-  "version": "1.0.1",
-  "description": "A file-based API starter template for Express.js with automatic route handling",
+  "version": "1.1.0",
+  "description": "A file-based API starter template for Express.js with automatic route handling. Supports both JavaScript and TypeScript.",
   "main": "index.js",
   "bin": {
     "express-file-based-routing": "./bin/api-starter.js"
@@ -16,7 +16,9 @@
     "starter",
     "template",
     "cli",
-    "file-based-routing"
+    "file-based-routing",
+    "typescript",
+    "ts"
   ],
   "author": "",
   "license": "ISC",
